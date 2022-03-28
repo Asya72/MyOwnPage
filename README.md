@@ -1,2 +1,0 @@
-# MyOwnPage
-Resume HTML
